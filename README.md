@@ -14,6 +14,9 @@
 
 ## Usage 
 
+https://kimkristion.github.io/Scheduling-Calendar/
+![Deployed Webpage](image.png)
+
 ## Credits
 
 - Starting Code provided by
